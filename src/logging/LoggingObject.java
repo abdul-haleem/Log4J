@@ -10,5 +10,6 @@ public class LoggingObject {
 	public void logSomething()
 	{
 		logger.debug("Let's celcebrate !");
+		logger.debug("Let's celcebrate 2");
 	}
 }
